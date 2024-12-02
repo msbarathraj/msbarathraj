@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msbarathraj
-- From Puducherry, Ind. Working as a software developer @ Bangalore
+- From Puducherry, India. Working as a software developer @ Bangalore
 - Interested in contributing back more to community
 - Hoping to meet some great minds, build great stuff :)
 
